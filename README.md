@@ -1,3 +1,0 @@
-# PTI-UAS
-
-test
